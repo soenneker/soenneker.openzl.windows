@@ -2,4 +2,4 @@ Upstream: https://github.com/facebook/openzl.git
 Commit: 3cb9dd595836f12a6f8392c8383914ff1ecc45ee
 Runtime: win-x64
 Version: 0.3.0
-SHA256 (openzl.dll): 5821239deca6c928a78072c4a25ce8338001dcea9212a5a7e67d6b93dc6b43ce
+SHA256 (openzl.dll): ac5fc9fb1665f23bd22aef2589e75efa74752f9a33eb836880af5fa05c36f545
